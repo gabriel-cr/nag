@@ -149,6 +149,14 @@ var mizerii = []mizerie{
 		Ce:    []string{"țț", "țâțe", "tzatze"},
 		Check: checkIsImage,
 	},
+	mizerie{
+		Cmds: []string{"redhead", "roscate"},
+		Subs: []string{
+			"BeforeAndAfterBoltons", "Bigtitssmalltits",
+		},
+		Ce:    []string{"roscate", "vulpițe"},
+		Check: checkIsImage,
+	},
 }
 
 func (m *mizerie) get() *reddit.Post {
